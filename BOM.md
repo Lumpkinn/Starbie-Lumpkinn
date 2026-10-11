@@ -19,7 +19,7 @@
 | [10K resistor](https://www.amazon.com/California-JOS-Carbon-Resistor-Tolerance/dp/B0BR68QQPF) | Resistor | 1 | $3.99 | $3.99 | [Amazon](https://www.amazon.com/California-JOS-Carbon-Resistor-Tolerance/dp/B0BR68QQPF) |
 | [MPU6050](https://www.amazon.com/gp/product/B0HFSBGKW9?psc=1) | Motion detector | 1 | $4.69 | $4.69 | [Amazon](https://www.amazon.com/gp/product/B0HFSBGKW9?psc=1) |
 | **Parts subtotal** | — | — | — | **$26.67** | — |
-| **Tax & shipping** | — | — | — | **$3.80** | — |
-| **Total** | — | — | — | **$30.47** | — |
+| **Tax & shipping** | — | — | — | **$0.00** | — |
+| **Total** | — | — | — | **$26.67** | — |
 
-**$0.47 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$3.33 left of the tier's funding.
