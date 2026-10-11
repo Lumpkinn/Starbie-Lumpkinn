@@ -19,7 +19,7 @@
 | [10K resistor](https://www.amazon.com/California-JOS-Carbon-Resistor-Tolerance/dp/B0BR68QQPF) | Resistor | 1 | $3.99 | $3.99 | [Amazon](https://www.amazon.com/California-JOS-Carbon-Resistor-Tolerance/dp/B0BR68QQPF) |
 | [MPU6050](https://www.taydaelectronics.com/mpu-6050-accel-gyro-board.html) | Motion detector | 1 | $2.29 | $2.29 | [Tayda](https://www.taydaelectronics.com/mpu-6050-accel-gyro-board.html) |
 | **Parts subtotal** | — | — | — | **$19.02** | — |
-| **Tax & shipping** | — | — | — | **$12.00** | — |
-| **Total** | — | — | — | **$31.02** | — |
+| **Tax & shipping** | — | — | — | **$0.00** | — |
+| **Total** | — | — | — | **$19.02** | — |
 
-**$1.02 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$10.98 left of the tier's funding.
