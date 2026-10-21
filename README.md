@@ -8,3 +8,13 @@ The Starbie itself is not too dissimilar from <a href="https://github.com/SharKi
 
 The Starbie is controlled with both the switches on the PCB board, and through how the user moves it around. (If you're looking at the sim, you can simulate this by dragging the starbie in your desired direction.) 
 
+<h1>Materials</h1>
+<ul>
+  <li>XIAO ESP32 C3</li>
+  <li>0.96 OLED</li>
+  <li>DHT11</li>
+  <li>MX Switches</li>
+  <li>Keycaps</li>
+  <li>Resistors</li>
+  <li>PCB</li>
+</ul>
