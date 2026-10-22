@@ -1,10 +1,10 @@
-Item, amount, cost (ea.), Link
-XIAO ESP32 C3, 1, 5.00, https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html
-0.96 OLED, 1, 2.50, https://www.amazon.com/dp/B0GBVWBWCR
-MPU6050, 1, 2.29, https://www.amazon.com/dp/B0943SGP34
-DHT11, 1, 1.15, https://www.taydaelectronics.com/dht11-temp-humid-sensor-html.html
-MX Switches, 4, 0.18, https://www.amazon.com//dp/B0FQP8VYX4
-Keycaps, 2, 0.60, https://www.amazon.com/dp/B0CQ2VLMVY
-10k Resistor, 10, 0.04, https://www.taydaelectronics.com/10-x-resistor-10k-ohm-1w-5-carbon-film-pkg-of-10.html
-PCB,1,10.00,https://www.jlcpcb.com/
-Total (each kit), 1, 22.90,
+Item,Qty,Supplier,Cost/item,Total Cost,link
+XIAO ESP32C6,1,seeedstudio,$5.00,$5.00,https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html
+Button Switch SW Cherry MX,2,Amazon,$0.18,$0.36,https://www.amazon.com//dp/B0FQP8VYX4
+DHT_11 Sensor,1,Tayda,$1.15,$1.15,https://www.taydaelectronics.com/dht11-temp-humid-sensor-html.html
+128x64 OLED Display,1,Amazon,$2.50,$2.50,https://www.amazon.com/dp/B0GBVWBWCR
+10K resistor,10,Tayta,$0.04,$0.40,https://www.taydaelectronics.com/10-x-resistor-10k-ohm-1w-5-carbon-film-pkg-of-10.html
+MPU6050,1,Tayda,$2.29,$2.29,https://www.taydaelectronics.com/mpu-6050-accel-gyro-board.html
+PCB,1,jlcpcb,$10.00,$10.00,https://www.jlcpcb.com/
+KeyCaps,2,Amazon,$0.60,$1.20,https://www.amazon.com/dp/B0CQ2VLMVY
+Estimated total shipping,1,,,$0.00,

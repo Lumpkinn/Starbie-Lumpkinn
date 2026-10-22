@@ -4,9 +4,9 @@
 <!-- Generated: 2026-10-11T04:28:41.655Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuvetqh000ei01rv0j2b29rj). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A tiny motion-controlled digital pet, basically a desktop Tamagotchi. Totally not a Starboy.
+> A small motion-controlled digital pet, based off of SharKing's Starbie. The project has a few differences however, with the most notable ones being the different sprite.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
