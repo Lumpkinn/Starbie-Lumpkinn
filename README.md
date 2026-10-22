@@ -21,6 +21,15 @@ The Starbie is controlled with both the switches on the PCB board, and through h
   <li>PCB</li>
 </ul>
 <h2>BOM</h2>
-|Item|Amount|Cost|Vendor|
-|:---------------------:|
-|XIAO ESP32 C6|1|5.00|
+
+| Item        | Amount | Unit Price  | Total | Vendor |
+| ------------- |:-:| :----:|:-----:|:------:|
+| XIAO ESP32C6  | 1 | $5.00|$5.00|<a href="https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html">seeedstudio</a>|
+| Button Switch SW Cherry MX |2|$0.18|$0.36|<a href="https://www.amazon.com//dp/B0FQP8VYX4">Amazon</a>|
+| DHT11 Sensor|1|$1.15|$1.15|<a href="https://www.taydaelectronics.com/dht11-temp-humid-sensor-html.html">Tayda</a>|
+|128x64 OLED Display|1|$2.50|$2.50|<a href="https://www.amazon.com/dp/B0GBVWBWCR">Amazon</a>|
+|10k Resistor|10|$0.04|$0.40|<a href="https://www.taydaelectronics.com/10-x-resistor-10k-ohm-1w-5-carbon-film-pkg-of-10.html">Tayta</a>|
+|MPU6050|1|$2.29|$2.29|<a href="https://www.taydaelectronics.com/mpu-6050-accel-gyro-board.html">Tayda</a>|
+|PCB|1|$10.00|$10.00|<a href="https://www.jlcpcb.com/">jlcpcb</a>|
+|Keycaps|2|$0.60|$1.20|<a href="https://www.amazon.com/dp/B0CQ2VLMVY">Amazon</a>|
+Total: 22.90
