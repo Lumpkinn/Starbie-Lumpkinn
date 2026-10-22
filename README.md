@@ -7,6 +7,8 @@ Here's a photo of the PCB:
 The Starbie itself is not too dissimilar from <a href="https://github.com/SharKingStudios/Starbie/blob/main/Week%201%20Guide.md">SharKing's Starbie</a>, but it has a few differences, with the most obvious one being the new sprite.
 (Here's the sprite in question!)-><img width="32" height="32" alt="StarbieIcon" src="https://github.com/user-attachments/assets/94b689cf-e6ac-4a36-a2f8-4b41f74a0ca6" />
 
+(And here's a picture of the demo!) -> <img width="1529" height="603" alt="image" src="https://github.com/user-attachments/assets/4d9d21c4-caec-4968-a39d-26597feb8c47" />
+
 
 The Starbie is controlled with both the switches on the PCB board, and through how the user moves it around. (If you're looking at the sim, you can simulate this by dragging the starbie in your desired direction.) 
 
