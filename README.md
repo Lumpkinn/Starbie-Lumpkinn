@@ -20,3 +20,7 @@ The Starbie is controlled with both the switches on the PCB board, and through h
   <li>Resistors</li>
   <li>PCB</li>
 </ul>
+<h2>BOM</h2>
+|Item|Amount|Cost|Vendor|
+|:---------------------:|
+|XIAO ESP32 C6|1|5.00|
