@@ -1,10 +1,15 @@
-My first Foray into hardware development!
+<h1>Project description</h1>
+A small motion-controlled digital pet, based off of SharKing's Starbie.
+
+The project has a few differences however, with the most notable ones being the different sprite.
+
+The project itself is basically a mini digital pet, like a tamagotchi, but the main difference is the fact that it responds to movement, and it's environment, instead of just requiring the user to click a few buttons.
 
 Here's a photo of the PCB:
 <br>
 <img width="467" height="325" alt="Starbie" src="https://github.com/user-attachments/assets/c5deec08-514f-4185-b3bb-6fff91efa704" />
 
-The Starbie itself is not too dissimilar from <a href="https://github.com/SharKingStudios/Starbie/blob/main/Week%201%20Guide.md">SharKing's Starbie</a>, but it has a few differences, with the most obvious one being the new sprite.
+The Starbie itself is not too dissimilar from SharKing's Starbie</a>, but it has a few differences, with the most obvious one being the new sprite.
 (Here's the sprite in question!)-><img width="32" height="32" alt="StarbieIcon" src="https://github.com/user-attachments/assets/94b689cf-e6ac-4a36-a2f8-4b41f74a0ca6" />
 
 (And here's a picture of the demo!) -> <img width="1529" height="603" alt="image" src="https://github.com/user-attachments/assets/4d9d21c4-caec-4968-a39d-26597feb8c47" />
