@@ -7,7 +7,8 @@ The project itself is basically a mini digital pet, like a tamagotchi, but the m
 
 Here's a photo of the PCB:
 <br>
-<img width="467" height="325" alt="Starbie" src="https://github.com/user-attachments/assets/c5deec08-514f-4185-b3bb-6fff91efa704" />
+<img width="1275" height="769" alt="image" src="https://github.com/user-attachments/assets/0e40af35-d06e-41de-953f-80f7fd500e4e" />
+
 
 The Starbie itself is not too dissimilar from SharKing's Starbie</a>, but it has a few differences, with the most obvious one being the new sprite.
 (Here's the sprite in question!)-><img width="32" height="32" alt="StarbieIcon" src="https://github.com/user-attachments/assets/94b689cf-e6ac-4a36-a2f8-4b41f74a0ca6" />
